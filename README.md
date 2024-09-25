@@ -2,7 +2,7 @@
 Phone: (123) 456-7890         | [linkedin.com/in/sandeepsahoo](https://linkedin.com/in/sandeepsahoo)
 
 ---
-## 🛠 **Technical Skills**
+### 🛠 **Technical Skills**
 
 - **Programming Languages:** Java, Python, JavaScript, TypeScript, C++
 - **Frameworks & Libraries:** Spring Boot, React, NodeJs 
@@ -10,7 +10,7 @@ Phone: (123) 456-7890         | [linkedin.com/in/sandeepsahoo](https://linkedin.
 - **Cloud Platforms:** AWS, Azure, Docker, Kubernetes
 
 ---
-## 💼 **Experience**
+### 💼 **Experience**
 **XYZ Systems, San Jose, CA | Senior Engineer** (Jan 2018 – Present)
 - Add bullets for each experience with a Task, Action and a Result
 - Architected a Highly available microservice improving system resiliency.
@@ -23,13 +23,13 @@ Phone: (123) 456-7890         | [linkedin.com/in/sandeepsahoo](https://linkedin.
 - Improved application performance by 40% through optimization of database queries and caching.
 
 ---
-## 🎓 **Education**
+### 🎓 **Education**
 
 - **Master of Science in Artificial Intelligence** University of XYZ (2025)
 - **Bachelor of Science in Computer Science** University of ABC (2022)
 
 ---
-## 🏆 **Certifications**
+### 🏆 **Certifications**
 
 - AWS Certified Solutions Architect - Professional
 - Oracle Certified Professional, Java SE
