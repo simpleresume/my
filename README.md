@@ -15,7 +15,6 @@ Phone: (123) 456-7890         | [linkedin.com/in/sandeepsahoo](https://linkedin.
 - Add bullets for each experience with a Task, Action and a Result
 - Architected a Highly available microservice improving system resiliency.
 - Led the migration of legacy systems to AWS, reducing in a 25% cost.
-- Onboarded interns, junior engineers, guided them on org practices and design principles.
 
 **ABC Corp, New York, NY | Software Engineer** (May 2013 – Dec 2017) 
 - Developed and maintained RESTful APIs for e-commerce platforms serving over 1 million users.
