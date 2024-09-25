@@ -4,7 +4,7 @@ Phone: (123) 456-7890         | [linkedin.com/in/sandeepsahoo](https://linkedin.
 ---
 #### 🛠 Technical Skills
 
-- **Programming Languages:** Java, Python, JavaScript, TypeScript, C++
+- **Programming Languages:** Java, Python, TypeScript, AI/ML
 - **Frameworks & Libraries:** Spring Boot, React, NodeJs 
 - **Databases:** MongoDB, Sybase, MySQL
 - **Cloud Platforms:** AWS, Azure, Docker, Kubernetes
