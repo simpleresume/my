@@ -1,5 +1,5 @@
 **Senior Software Engineer** | Email : john.doe@example.com  
-Phone: (123) 456-7890         | [linkedin.com/in/JohnDoe](https://linkedin.com/in/sandeepsahoo)
+Phone: (123) 456-7890         | [linkedin.com/in/johndoe](https://linkedin.com/in/sandeepsahoo)
 
 ---
 #### 🛠 Technical Skills
