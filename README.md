@@ -16,7 +16,7 @@ Phone: (123) 456-7890         | [linkedin.com/in/johndoe](https://linkedin.com/i
 - Architected a Highly available microservice improving system resiliency.
 - Led the migration of legacy systems to AWS, reducing in a 25% cost.
 
-**ABC Corp, New York, NY | Software Engineer** (May 2013 – Dec 2017) 
+**ABC Corp, New York, NY | Software Engineer** (May 2012 – Dec 2017) 
 - Developed and maintained RESTful APIs for e-commerce platforms serving over 1 million users.
 - Collaborated with cross-functional teams to design and implement responsive UI using React.
 - Improved application performance by 40% through optimization of database queries and caching.
@@ -24,8 +24,8 @@ Phone: (123) 456-7890         | [linkedin.com/in/johndoe](https://linkedin.com/i
 ---
 #### 🎓 Education
 
-- **Master of Science in Artificial Intelligence** University of XYZ (2025)
-- **Bachelor of Science in Computer Science** University of ABC (2022)
+- **Master of Science in Artificial Intelligence** University of XYZ (2018)
+- **Bachelor of Science in Computer Science** University of ABC (2012)
 
 ---
 #### 🏆 Certifications
