@@ -4,9 +4,9 @@ Phone: (123) 456-7890         | [linkedin.com/in/johndoe](https://linkedin.com/i
 ---
 #### 🛠 Technical Skills
 
-- **Programming Languages:** Java, Python, TypeScript, AI/ML
-- **Frameworks & Libraries:** Spring Boot, React, NodeJs 
-- **Databases:** MongoDB, Sybase, MySQL
+- **Programming Languages:** Java, Python, TypeScript, AI/ML, DL, NLP
+- **Frameworks & Libraries:** Spring Boot, Angular, Pytorch, LangChain
+- **Databases:** MongoDB, Chroma, Oracle, Sybase, MySql
 - **Cloud Platforms:** AWS, Azure, Docker, Kubernetes
 
 ---
@@ -31,5 +31,5 @@ Phone: (123) 456-7890         | [linkedin.com/in/johndoe](https://linkedin.com/i
 #### 🏆 Certifications
 
 - AWS Certified Solutions Architect - Professional
-- Oracle Certified Professional, Java SE
-- MongoDB Certified Developer
+- MongoDB, Oracle Certified Professional
+- ADPList Top 10 Mentor for backend
